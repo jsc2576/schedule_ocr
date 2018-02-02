@@ -65,4 +65,8 @@
   </term>
   <term name="친구" description="친구" physicalName="FRD" physicalDescription="FRIEND"/>
   <term name="대기" description="대기" physicalName="WAIT" physicalDescription="WAIT"/>
+  <term name="반복" description="반복" physicalName="RPT" physicalDescription="REPEAT"/>
+  <term name="공개" description="공개" physicalName="OPEN" physicalDescription="OPEN"/>
+  <term name="시작" description="시작" physicalName="STRT" physicalDescription="START"/>
+  <term name="끝" description="끝" physicalName="END" physicalDescription="END"/>
 </tm:TermDictionary>
